@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+  }
+  
+  .text {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    border-style: solid;
+    border-color: blue;
+
+  }
+
+  .txt {
+    color: lightblue;
+    text-shadow: 0 0 3px #ddff00;
+
+    }
+
+  .txt2 {
+    color: lightblue;
+    text-shadow: 0 0 3px #ddff00;
+
+  }
+
+  .txt3 {
+    color: lightblue;
+    text-shadow: 0 0 3px #ddff00;
+
+  }
+
+  .txt4 {
+    color: lightblue;
+    text-shadow: 0 0 3px #ddff00;
+    
+  }
+
