@@ -62,7 +62,7 @@ fetchContent("Data/albums.json").then((albums) => {
   });
 });
 
-//A magic spell - memorise it and use it EXACTLY like this :)
+
 async function fetchContent(url) {
   let request = await fetch(url);
   let json = await request.json();
